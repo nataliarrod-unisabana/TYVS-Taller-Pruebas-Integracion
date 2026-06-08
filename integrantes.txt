@@ -1,0 +1,9 @@
+Integrantes del equipo
+======================
+
+Nombre: Natalia Rodriguez
+Correo: nataliarrod@unisabana.edu.co
+Programa: Maestría en Ingeniería de Software
+Curso: Testing y Validación de Software (TYVS)
+Universidad: Universidad de La Sabana
+Año: 2026
